@@ -32,7 +32,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer
 
-```
+```hsh -s /bin/zsh
+
 node@v10.16.0 or higher
 npm@6.9.0 or higher
 git@2.17.1 or higher
@@ -50,6 +51,7 @@ $ git clone https://github.com/cobidev/simplefolio
 
 # Go into the repository
 $ cd simplefolio
+
 
 # Remove current origin repository
 $ git remote remove origin
